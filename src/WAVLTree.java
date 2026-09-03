@@ -423,6 +423,7 @@ public class WAVLTree {
 			}
 			if (currPos == toDelete)
 				currPos = deletedSuccessor;
+			break;
 		default:
 			break;
 		}
