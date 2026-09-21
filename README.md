@@ -2,8 +2,6 @@
 
 - Authors: Kobie Hazon and Itzchak Harel.
 - Course: BSc Computer Science.
-- Available copy: 2018, for a 2017 Data Structures assignment.
-- Assignment brief: `assignment/wavl-tree-assignment.pdf`.
 
 ## Contents
 
