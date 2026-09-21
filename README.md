@@ -1,6 +1,9 @@
 # BSc Data Structures - WAVL Tree
 
-A historical archive of my CS BSc coursework.
+- Authors: Kobie Hazon and Itzchak Harel.
+- Course: BSc Computer Science.
+- Available copy: 2018, for a 2017 Data Structures assignment.
+- Assignment brief: `assignment/wavl-tree-assignment.pdf`.
 
 ## Contents
 
@@ -13,13 +16,6 @@ Implemented operations include:
 - Sorted key and value array export.
 - Order-statistic `select` over the i-th smallest key.
 - Rebalancing operation counts for insert/delete.
-
-## Provenance
-
-- Authors: Kobie Hazon and Itzchak Harel.
-- Era: CS BSc.
-- Last recovered work: 2018 archive copy of a 2017 data structures assignment.
-- Assignment baseline: `assignment/wavl-tree-assignment.pdf` is preserved in the first commit.
 
 ## Tech Stack
 
