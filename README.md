@@ -1,7 +1,7 @@
 # BSc Data Structures - WAVL Tree
 
 - Authors: Kobie Hazon and Itzchak Harel.
-- Course: BSc Computer Science.
+- Course: Data Structures.
 
 ## Contents
 
